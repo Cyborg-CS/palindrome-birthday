@@ -18,3 +18,18 @@ p {
   text-align: left;
   font-size: large;
 }
+
+h1{
+ 
+  font-size: 40px;
+}
+
+#result{
+ text-align: center;
+ padding-top: 3rem;
+}
+
+#bday-input{
+  width: 200px;
+  height: 20px;
+}
